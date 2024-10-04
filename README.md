@@ -24,7 +24,7 @@ implementation of a mesh simplification paper
 <img width="315" alt="image" src="https://github.com/user-attachments/assets/b1b3c2ed-c001-4a96-a5b9-1084d9bbab42">
 
 ...
-<img width="349" alt="image" src="https://github.com/user-attachments/assets/16c85d5d-06f9-457d-9ec0-0ca8d3c4cb59">
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/16c85d5d-06f9-457d-9ec0-0ca8d3c4cb59">
 
 <img width="297" alt="image" src="https://github.com/user-attachments/assets/1bc4df6b-8a31-4a9a-a6b2-acefee0ba8cb">
 
